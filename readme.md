@@ -16,5 +16,5 @@ Rust: Track habits
 - [restic](https://github.com/restic/restic)  
 Go: Backup files to many different storage types
 
-- [bore](https://bitbucket.org/delan/nonymous/)
+- [bore](https://bitbucket.org/delan/nonymous/)  
 Rust: Send DNS queries
