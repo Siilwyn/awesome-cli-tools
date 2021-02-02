@@ -1,5 +1,5 @@
 # Awesome CLI Tools
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [Volta](https://github.com/volta-cli/volta)  
 Rust: Manage JS tooling
