@@ -18,3 +18,6 @@ Go: Backup files to many different storage types
 
 - [bore](https://bitbucket.org/delan/nonymous/)  
 Rust: Send DNS queries
+
+- [Rclone](https://github.com/rclone/rclone)
+Go: Like 'rsync' for cloud storage
