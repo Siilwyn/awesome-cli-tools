@@ -19,14 +19,14 @@ Go: Backup files to many different storage types
 - [bore](https://bitbucket.org/delan/nonymous/)  
 Rust: Send DNS queries
 
-- [Rclone](https://github.com/rclone/rclone)
+- [Rclone](https://github.com/rclone/rclone)  
 Go: Like 'rsync' for cloud storage
 
-- [tunnelto](https://github.com/agrinman/tunnelto)
+- [tunnelto](https://github.com/agrinman/tunnelto)  
 Rust: Expose your local web server to the internet
 
-- [hey](https://github.com/rakyll/hey)
+- [hey](https://github.com/rakyll/hey)  
 Go: Send some load to a web application
 
-- [bandwhich](https://github.com/imsnif/bandwhich)
+- [bandwhich](https://github.com/imsnif/bandwhich)  
 Rust: Show what is using bandwith
