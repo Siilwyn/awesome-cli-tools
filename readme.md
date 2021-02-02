@@ -24,3 +24,6 @@ Go: Like 'rsync' for cloud storage
 
 - [tunnelto](https://github.com/agrinman/tunnelto)
 Rust: Expose your local web server to the internet
+
+- [hey](https://github.com/rakyll/hey)
+Go: Send some load to a web application
