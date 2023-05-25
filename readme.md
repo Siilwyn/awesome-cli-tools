@@ -25,8 +25,8 @@ Go: Like 'rsync' for cloud storage
 - [tunnelto](https://github.com/agrinman/tunnelto)  
 Rust: Expose your local web server to the internet
 
-- [hey](https://github.com/rakyll/hey)  
-Go: Send some load to a web application
+- [oha](https://github.com/hatoo/oha)  
+Rust: Send some load to a web application
 
 - [bandwhich](https://github.com/imsnif/bandwhich)  
 Rust: Show what is using bandwith
