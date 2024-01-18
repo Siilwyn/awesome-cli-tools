@@ -22,7 +22,7 @@ Rust: Send DNS queries
 - [rclone](https://github.com/rclone/rclone)  
 Go: Like 'rsync' for cloud storage
 
-- [tunnelto](https://github.com/agrinman/tunnelto)  
+- [bore](https://github.com/ekzhang/bore)  
 Rust: Expose your local web server to the internet
 
 - [oha](https://github.com/hatoo/oha)  
