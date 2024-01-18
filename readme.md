@@ -27,3 +27,6 @@ Rust: Expose your local web server to the internet
 
 - [oha](https://github.com/hatoo/oha)  
 Rust: Send some load to a web application
+
+- [xh](https://github.com/ducaale/xh)
+Rust: Send HTTP requests
