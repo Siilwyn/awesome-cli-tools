@@ -4,6 +4,9 @@
 - [mise-en-place](https://github.com/jdx/mise)  
 Rust: Manage dev tooling versions
 
+- [Helix](https://github.com/helix-editor/helix)  
+Rust: Modal code editor
+
 - [Glow](https://github.com/charmbracelet/glow)  
 Go: Browse and view markdown files
 
