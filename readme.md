@@ -31,3 +31,8 @@ Send some load to a web application
 $\color{#dea584}{\textsf{⬢}}$ [xh](https://github.com/ducaale/xh)  
 Send HTTP requests
 
+$\color{#dea584}{\textsf{⬢}}$ [difftastic](https://github.com/Wilfred/difftastic)  
+Syntax-aware git diffs
+
+$\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)  
+Syntax-aware git merge driver
