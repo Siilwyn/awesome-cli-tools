@@ -34,5 +34,8 @@ Send HTTP requests
 $\color{#dea584}{\textsf{⬢}}$ [difftastic](https://github.com/Wilfred/difftastic)  
 Syntax-aware git diffs
 
-$\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)  
+$\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)
 Syntax-aware git merge driver
+
+$\color{#00add8}{\textsf{⬢}}$ [rootly-cli](https://github.com/rootlyhq/rootly-cli)
+Manage incidents, alerts, services, and on-call schedules
