@@ -1,6 +1,14 @@
 # Awesome CLI Tools
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## What makes a CLI tool awesome?
+Looking for tools that are:
+- Written in a "modern" langauge, compiled to one binary: less system dependencies = awesome'mer.
+- Fast and designed to solve one problem well.
+- Not tied to one specific service.
+
+## The list
+
 $\color{#dea584}{\textsf{⬢}}$ [mise-en-place](https://github.com/jdx/mise)  
 Manage dev tooling versions
 
