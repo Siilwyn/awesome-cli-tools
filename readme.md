@@ -44,3 +44,6 @@ Syntax-aware git diffs
 
 $\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)  
 Syntax-aware git merge driver
+
+$\color{#00add8}{\textsf{⬢}}$ [gitty](https://github.com/Omibranch/gitty)  
+Automate `git add`, `commit`, and `push` with a single command
