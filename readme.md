@@ -47,3 +47,6 @@ Syntax-aware git merge driver
 
 $\color{#00add8}{\textsf{⬢}}$ [gitty](https://github.com/Omibranch/gitty)  
 Automate `git add`, `commit`, and `push` with a single command
+
+$\color{#00add8}{\textsf{⬢}}$ [agenttrace](https://github.com/luoyuctl/agenttrace)<br>
+Inspect AI coding agent session history, costs, latency, and slow-run diagnostics
