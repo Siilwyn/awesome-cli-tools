@@ -45,5 +45,8 @@ Syntax-aware git diffs
 $\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)  
 Syntax-aware git merge driver
 
+$\color{#dea584}{\textsf{⬢}}$ [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)<br>
+Local-first memory lifecycle CLI for AI agents
+
 $\color{#00add8}{\textsf{⬢}}$ [gitty](https://github.com/Omibranch/gitty)  
 Automate `git add`, `commit`, and `push` with a single command
