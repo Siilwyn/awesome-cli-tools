@@ -3,9 +3,10 @@
 
 ## What makes a CLI tool awesome?
 Looking for tools that are:
-- Written in a "modern" langauge, compiled to one binary: less system dependencies = awesome'mer.
+- Written in a "modern" language, compiled to one binary: less system dependencies = awesom'er.
 - Fast and designed to solve one problem well.
 - Not tied to one specific service.
+- Maintained for longer than a year.
 
 ## The list
 
@@ -44,6 +45,3 @@ Syntax-aware git diffs
 
 $\color{#dea584}{\textsf{⬢}}$ [Mergiraf](https://codeberg.org/mergiraf/mergiraf)  
 Syntax-aware git merge driver
-
-$\color{#00add8}{\textsf{⬢}}$ [gitty](https://github.com/Omibranch/gitty)  
-Automate `git add`, `commit`, and `push` with a single command
